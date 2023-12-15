@@ -1,0 +1,22 @@
+{
+  "name": "todoserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todoserver.js",
+  "scripts": {
+    "dev":"nodemon todoserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjhoshi33/todoserver.git"
+  },
+  "author": "gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjhoshi33/todoserver/issues"
+  },
+  "homepage": "https://github.com/sumanjhoshi33/todoserver#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
